@@ -1,0 +1,465 @@
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\QLNH.exe.config
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\QLNH.exe
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\QLNH.pdb
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\EnvDTE.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\stdole.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\Microsoft.MSXML.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\obj\Debug\QLNH.frmAccountProfile.resources
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\obj\Debug\QLNH.frmAdmin.resources
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\obj\Debug\QLNH.frmLogin.resources
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\obj\Debug\QLNH.frmTableManager.resources
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\obj\Debug\QLNH.Properties.Resources.resources
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\obj\Debug\QLNH.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\obj\Debug\QLNH.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\obj\Debug\QLNH.csproj.CopyComplete
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\obj\Debug\QLNH.exe
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLCafe\QLCafe\QLCafe\obj\Debug\QLNH.pdb
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\QLNH.exe.config
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\QLNH.exe
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\QLNH.pdb
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\EnvDTE.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\stdole.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\Microsoft.MSXML.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\obj\Debug\QLNH.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\obj\Debug\QLNH.Views.frmAccountProfile.resources
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\obj\Debug\QLNH.Views.frmAdmin.resources
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\obj\Debug\QLNH.Views.frmLogin.resources
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\obj\Debug\QLNH.Views.frmTableManager.resources
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\obj\Debug\QLNH.Properties.Resources.resources
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\obj\Debug\QLNH.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\obj\Debug\QLNH.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\obj\Debug\QLNH.csproj.CopyComplete
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\obj\Debug\QLNH.exe
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\obj\Debug\QLNH.pdb
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\obj\Debug\QLNH.Views.frmMergeTable.resources
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\obj\Debug\QLNH.Views.frmBill.resources
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\obj\Debug\QLNH.Views.frmChartRevenue.resources
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\QLNH\QLNH\QLNH\obj\Debug\QLNH.Views.frmTaxDiscount.resources
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\QLNH.exe.config
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\QLNH.exe
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\QLNH.pdb
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\EnvDTE.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\stdole.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\Microsoft.MSXML.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\obj\Debug\QLNH.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\obj\Debug\QLNH.Views.frmAccountProfile.resources
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\obj\Debug\QLNH.Views.frmAdmin.resources
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\obj\Debug\QLNH.Views.frmBill.resources
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\obj\Debug\QLNH.Views.frmChartRevenue.resources
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\obj\Debug\QLNH.Views.frmLogin.resources
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\obj\Debug\QLNH.Views.frmMergeTable.resources
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\obj\Debug\QLNH.Views.frmTableManager.resources
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\obj\Debug\QLNH.Properties.Resources.resources
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\obj\Debug\QLNH.Views.frmTaxDiscount.resources
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\obj\Debug\QLNH.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\obj\Debug\QLNH.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\obj\Debug\QLNH.csproj.CopyComplete
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\obj\Debug\QLNH.exe
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\obj\Debug\QLNH.pdb
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\obj\Debug\QLNH.Views.frmPreOrder.resources
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\obj\Debug\QLNH.Views.frmListTableOrdered.resources
+C:\Users\PC\OneDrive\Tài liệu\HK2_2021_2022\CD-CNPM\Project template\exerror\QLNH\QLNH\QLNH\obj\Debug\QLNH.Views.frmKitchenArea.resources
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\QLNH.exe.config
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\QLNH.exe
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\QLNH.pdb
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\EnvDTE.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\stdole.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\Microsoft.MSXML.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\obj\Debug\QLNH.Views.frmAccountProfile.resources
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\obj\Debug\QLNH.Views.frmAdmin.resources
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\obj\Debug\QLNH.Views.frmBill.resources
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\obj\Debug\QLNH.Views.frmChartRevenue.resources
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\obj\Debug\QLNH.Views.frmKitchenArea.resources
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\obj\Debug\QLNH.Views.frmListTableOrdered.resources
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\obj\Debug\QLNH.Views.frmLogin.resources
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\obj\Debug\QLNH.Views.frmMergeTable.resources
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\obj\Debug\QLNH.Views.frmPreOrder.resources
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\obj\Debug\QLNH.Views.frmTableManager.resources
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\obj\Debug\QLNH.Properties.Resources.resources
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\obj\Debug\QLNH.Views.frmTaxDiscount.resources
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\obj\Debug\QLNH.csproj.GenerateResource.cache
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\obj\Debug\QLNH.csproj.CoreCompileInputs.cache
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\obj\Debug\QLNH.csproj.CopyComplete
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\obj\Debug\QLNH.exe
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\obj\Debug\QLNH.pdb
+D:\EXERCISE\Chuyen de cong nghe phan mem\ck\Source\QLNH\QLNH\QLNH\obj\Debug\QLNH.csproj.AssemblyReference.cache
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\QLNH.exe.config
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\QLNH.exe
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\QLNH.pdb
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\EnvDTE.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\stdole.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\obj\Debug\QLNH.csproj.AssemblyReference.cache
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\obj\Debug\QLNH.csproj.SuggestedBindingRedirects.cache
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\obj\Debug\QLNH.Views.frmAccountProfile.resources
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\obj\Debug\QLNH.Views.frmAdmin.resources
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\obj\Debug\QLNH.Views.frmBill.resources
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\obj\Debug\QLNH.Views.frmChartRevenue.resources
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\obj\Debug\QLNH.Views.frmKitchenArea.resources
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\obj\Debug\QLNH.Views.frmListTableOrdered.resources
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\obj\Debug\QLNH.Views.frmLogin.resources
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\obj\Debug\QLNH.Views.frmMergeTable.resources
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\obj\Debug\QLNH.Views.frmPreOrder.resources
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\obj\Debug\QLNH.Views.frmTableManager.resources
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\obj\Debug\QLNH.Properties.Resources.resources
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\obj\Debug\QLNH.Views.frmTaxDiscount.resources
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\obj\Debug\QLNH.csproj.GenerateResource.cache
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\obj\Debug\QLNH.csproj.CoreCompileInputs.cache
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\obj\Debug\QLNH.csproj.CopyComplete
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\obj\Debug\QLNH.exe
+C:\Users\ngohu\Documents\Testing\QLNH\QLNH\obj\Debug\QLNH.pdb
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\QLNH.exe.config
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\QLNH.exe
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\QLNH.pdb
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\EnvDTE.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\stdole.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\obj\Debug\QLNH.csproj.AssemblyReference.cache
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\obj\Debug\QLNH.csproj.SuggestedBindingRedirects.cache
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\obj\Debug\QLNH.Views.frmAccountProfile.resources
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\obj\Debug\QLNH.Views.frmAdmin.resources
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\obj\Debug\QLNH.Views.frmBill.resources
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\obj\Debug\QLNH.Views.frmChartRevenue.resources
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\obj\Debug\QLNH.Views.frmKitchenArea.resources
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\obj\Debug\QLNH.Views.frmListTableOrdered.resources
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\obj\Debug\QLNH.Views.frmLogin.resources
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\obj\Debug\QLNH.Views.frmMergeTable.resources
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\obj\Debug\QLNH.Views.frmPreOrder.resources
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\obj\Debug\QLNH.Views.frmTableManager.resources
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\obj\Debug\QLNH.Properties.Resources.resources
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\obj\Debug\QLNH.Views.frmTaxDiscount.resources
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\obj\Debug\QLNH.csproj.GenerateResource.cache
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\obj\Debug\QLNH.csproj.CoreCompileInputs.cache
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\obj\Debug\QLNH.csproj.CopyComplete
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\obj\Debug\QLNH.exe
+C:\Users\ngohu\Documents\Testing\FinalProject\QLNH\QLNH\obj\Debug\QLNH.pdb
